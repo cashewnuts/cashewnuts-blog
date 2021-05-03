@@ -59,7 +59,8 @@
   text-overflow: unset;
 }
 
-.notion-gallery-grid .notion-property-text {
+.notion-gallery-grid .notion-property-text,
+.notion-gallery-grid .notion-property-multi_select {
   font-size: 14px;
 }
 
